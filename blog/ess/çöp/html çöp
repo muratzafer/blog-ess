@@ -1,0 +1,214 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Easy Speak</title>
+  <link rel="stylesheet" href="styles/style.css" />
+</head>
+
+<body>
+
+  <!-- header section start -->
+
+  <div style="text-align:center">
+    <p></p>
+  </div>
+  <header class="header">
+    <a href="#" class="logo">
+      <div><img src="images/analogo.png" alt="gösterilemedi" /></div>
+    </a>
+    <nav class="navbar">
+      <a href="#" class="active">Home</a>
+      <a href="#">About</a>
+      <a href="#">Menu</a>
+      <a href="#">Products</a>
+      <a href="#">Review</a>
+      <a href="#">Contacts</a>
+      <a href="#">Blogs</a>
+    </nav>
+
+    <div class="buttons">
+      <button>
+        <i class="fas fa-search"></i>
+      </button>
+      <button>
+        <i class="fas fa-shopping-cart"></i>
+      </button>
+      <button>
+        <i class="fas fa-bars"></i>
+      </button>
+    </div>
+  </header>
+  <!-- header section end -->
+
+  <!-- home section start -->
+  <section class="home">
+    <div class="content">
+      <p>
+        Easy Speak is a website that helps you to learn English easily. You can find many different topics and learn English with fun.
+      </p>
+      <a href="#" class="btn">Bilgi Al</a>
+
+    </div>
+  </section>
+  <!-- home section end -->
+
+  <!-- home section start -->
+  <section class="menu">
+    <h1 class="heading">Easy<span>Career</span></h1>
+    <div class="box-container">
+        <div class="box">
+            <div class="box-head">
+              <img src="images/enjoy & learn/easyenglish.png" alt="gösterilemedi" />
+              <span class="menu-category">Eğitim</span>
+              <h3>İngilizce Öğren</h3>
+              <div class="price">%30 Burs Avantajı<span>%20 Burs Avantajı</span>              </div>
+              </span>
+              </div>
+              </span>
+              <div class="box-buttom">
+                <a href="#" class="btn">Bilgi Al</a>
+              </div>
+            </div>
+            <div class="box">
+              <div class="box-head">
+                <img src="images/enjoy & learn/easydeutsch.png" alt="gösterilemedi" />
+                <span class="menu-category">Eğitim</span>
+                <h3></h3>
+                <div class="price">%30 Burs Avantajı<span>%20 Burs Avantajı</span></div>
+                </span>
+                </div>
+                </span>
+                <div class="box-buttom">
+                  <a href="#" class="btn">Bilgi Al</a>
+                </div>
+              </div>
+              <div class="box">
+                <div class="box-head">
+                  <img src="images/enjoy & learn/easyabroad.png" alt="gösterilemedi" />
+                  <span class="menu-category">Eğitim</span>
+                  <h3></h3>
+                  <div class="price">%30 Burs Avantajı<span>%20 Burs Avantajı</span></div>
+                  </span>
+                  </div>
+                  </span>
+                  <div class="box-buttom">
+                    <a href="#" class="btn">Bilgi Al</a>
+                  </div>
+                </div>       
+                <div class="box">
+                  <div class="box-head">
+                    <img src="images/enjoy & learn/enjoyandlearn.png" alt="gösterilemedi" />
+                    <span class="menu-category">Eğitim</span>
+                    <h3>123</h3>
+                    <div class="price">%30 Burs Avantajı<span>%20 Burs Avantajı</span></div>
+                  </span>
+                </div>
+              </span>
+                    <div class="box-buttom">
+                      <a href="#" class="btn">Bilgi Al</a>
+                    </div>    
+                  </div>                  
+                  <div class="box">
+                    <div class="box-head">
+                      <img src="images/enjoy & learn/easyspeak.png" alt="gösterilemedi" />
+                      <span class="menu-category">Eğitim</span>
+                      <h3>sss</h3>
+                      <div class="price">%30 Burs Avantajı<span>%20 Burs Avantajı</span></div>
+                      </span>
+                      <div class="box-buttom">
+                        <a href="#" class="btn">Bilgi Al</a>
+                      </div>
+                    </div>
+                  </span>
+                </div>           
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- home section end -->
+  <!-- products section start -->
+    <section class="products">
+      <h1 class="heading">Easy<span>Brands</span></h1>
+      <div class="box-container">
+          <div class="box">
+              <div class="box-head">
+                <span class="title">easyenglish</span>
+              </div>
+                <div class="image">
+                  <img src="images/enjoy & learn/easyenglish.png" alt="gösterilemedi" />
+                  <a href="#" class="btn">Bilgi Al</a>
+                </span>
+              </div>
+            </span>
+          </div>
+                  <div class="box">
+                  <div class="box-head">
+                    <span class="title">easyenglish</span>
+                  </div>
+                    <div class="image">
+                      <img src="images/enjoy & learn/easyenglish.png" alt="gösterilemedi" />
+                      <a href="#" class="btn">Bilgi Al</a>
+                  </span>
+                </div>
+              </span>
+            </div>
+                    <div class="box">
+                      <div class="box-head">
+                        <span class="title">easyenglish</span>
+                        
+                  </div>
+                  
+                        <div class="image">
+                          <img src="images/enjoy & learn/easydeutsch.png" alt="gösterilemedi" />
+                          <h3>almanca</h3>
+                          <a href="#" class="btn">Bilgi Al</a>
+                      </div>
+                    </span>
+                  </div>
+                        <div class="box">
+                          <div class="box-head">
+                            <span class="title">easyenglish</span>
+                          </div>
+                                <div class="image">
+                                  <img src="images/enjoy & learn/easyabroad.png" alt="gösterilemedi"/>
+                        </div>
+                        
+                                    <div class="box-bottom">
+                                      <div class="info"></div>
+                                        <b class="price">ingilizce</b>
+                                            <span class="amount">6-9 Yaş</span>
+                                            <a href="#" class="btn">Bilgi Al</a>
+                                              <div class="product-btn">
+                                                <a href="#"></a>
+                                                  <i class="fas fa-plus"></i>
+                            </div>
+                          </div>
+                        </span>
+                      </div>
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>    
+        </section>
+
+  <!-- products section end -->
+
+
+</body>
+
+</html>

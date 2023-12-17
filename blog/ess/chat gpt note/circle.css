@@ -1,0 +1,58 @@
+
+      body {
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #1c68b4; /* Set your background color */
+      }
+      
+      .container {
+        position: relative;
+      }
+      
+      .center-circle {
+        width: 100px;
+        height: 100px;
+        background-color: #007bff; /* Set your circle color */
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      
+      .home-link {
+        color: #d30f0f; /* Set your text color */
+        text-decoration: none;
+      }
+      
+      .circle {
+        width: 50px;
+        height: 50px;
+        background-color: #28a745; /* Set your circle color */
+        border-radius: 50%;
+        position: absolute;
+      }
+      
+      .with-arrow::before {
+        content: "";
+        position: absolute;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 10px;
+        border-color: transparent transparent transparent #28a745; /* Set your arrow color */
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin-top: -10px; /* Half of the arrow height */
+        margin-left: -10px; /* Half of the arrow width */
+      }
+      
+      /* Add more styling as needed */
